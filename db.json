@@ -76,6 +76,7 @@
   ],
   "error": {
     "error": "error message here",
-    "status": 500
+    "status": 500,
+    "somethingElse": "lol"
   }
 }
