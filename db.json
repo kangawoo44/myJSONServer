@@ -75,7 +75,6 @@
     }
   ],
   "error": {
-    "status": 500,
     "error": "error message here"
   }
 }
